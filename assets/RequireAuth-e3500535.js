@@ -1,0 +1,2 @@
+import{j as e,a3 as x}from"./index-678ff260.js";const a=t=>e.jsxs("div",{className:`text-white flex flex-col items-center justify-center\r
+         py-6 xs:py-12`,children:[t.content,e.jsx(x,{className:"mt-4 px-2 py-1"})]}),c=({icon:t,title:s,description:n})=>e.jsxs(e.Fragment,{children:[e.jsx("div",{className:"text-[80px] xs:text-[100px]",children:t}),e.jsx("h1",{className:"font-medium text-xl",children:s}),e.jsx("p",{className:"text-sm mt-2 text-center",children:n})]});export{a as R,c as a};
